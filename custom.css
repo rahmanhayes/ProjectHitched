@@ -1,0 +1,32 @@
+/* Add Background:url for image in the Background */
+
+
+html,
+body {
+  height: 100%;
+  background-color: #333;
+  background: url(images/photo_by_nathan-walker.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.couple {
+font-size: 2.5em;
+font-family: 'HelveticaNeue LT 25 UltLight';
+}
+
+.form-signin {
+  background-color: transparent;
+  padding: 20px;
+  border: 2px solid;
+  border-radius: 25px;
+  border-color: #b37400;
+}
+
+
+.company {
+  color: #ffa500;
+}
+
